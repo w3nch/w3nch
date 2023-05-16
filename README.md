@@ -7,7 +7,25 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w3nch" alt="w3nch" /></a> </p>
 
+
 - 🔭 I’m currently working on web and some malware **LearnRootKit**
+
+- 🌱 I’m currently learning soc **IBM and GOOGLE**
+
+- 👯 I’m looking to collaborate on developing websites **Fight game**
+
+- 🤝 I’m looking for help with anything i can get **Fight game**
+
+- 👨‍💻 All of my projects are available here [i will have one](i will have one)
+
+- 📝 I regularly write articles on security and coding [not now](not now)
+
+- 💬 Ask me about anything you like **JS,Python,PHP,MONGODB,SQL**
+
+- 📫 How to reach me on telegram @Zer0Day101 **noop**
+
+- ⚡ Fun fact html is not a language **i am damn right html is not a language**
+
 <br>
 
 <p align="left">
