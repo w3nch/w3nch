@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm w3nch</h1>
 <br>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fi.imgur.com%2FzYgvYmv.gifv&psig=AOvVaw0mAR1eul7jTU9NmbDsWikW&ust=1684337597547000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLC-u9OU-v4CFQAAAAAdAAAAABAE"/>
 <br>
 <h3 align="center">Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise</h3>
 <br>
