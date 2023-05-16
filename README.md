@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm w3nch</h1>
 <br>
-<p align="center">
-<img src="https://i.imgur.com/zYgvYmv.gif"/>
-  </p>
 <br>
 <h3 align="center">Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise</h3>
 <br>
+<p align="center">
+<img src="https://i.imgur.com/zYgvYmv.gif"/>
+  </p>
+  <br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=w3nch&label=Profile%20views&color=0e75b6&style=flat" alt="w3nch" />
 </p>
