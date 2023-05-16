@@ -91,14 +91,7 @@
  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/>
 </a>
-<a href="https://www.reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3nch&show_icons=true&locale=en&layout=compact" alt="w3nch" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w3nch&show_icons=true&locale=en" alt="w3nch" /></p>
-</a> <br>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
@@ -106,7 +99,14 @@
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue.js" width="40" height="40"/>
-</a>
+<a href="https://www.reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w3nch&show_icons=true&locale=en&layout=compact" alt="w3nch" /></p>
 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w3nch&show_icons=true&locale=en" alt="w3nch" /></p>
+</a> <br>
+
+
+
 
