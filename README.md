@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on developing websites **Fight game**
 
-- 🤝 I’m looking for help with anything i can get **Fight game**
+- 🤝 I’m looking for help with anything
 
 - 👨‍💻 All of my projects are available here [i will have one](i will have one)
 
