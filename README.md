@@ -13,15 +13,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on web and some malware **LearnRootKit**
-- 🌱 I’m currently learning soc **IBM and GOOGLE**
-- 👯 I’m looking to collaborate on developing websites **Fight game**
-- 🤝 I’m looking for help with anything
-- 👨‍💻 All of my projects are available here [i will have one](i will have one)
-- 📝 I regularly write articles on security and coding [not now](not now)
-- 💬 Ask me about anything you like **JS, Python, PHP, MONGODB, SQL**
-- 📫 How to reach me on telegram @Zer0Day101 **noop**
-- ⚡ Fun fact html is not a language **i am damn right html is not a language**
+- 🔭 I’m currently working on web development and exploring malware creation with **LearnRootKit**.
+- 🌱 I’m currently learning Security Operations Center (SOC) from **IBM** and **Google**.
+- 👯 I’m looking to collaborate on developing an exciting fight game website.
+- 🤝 I’m looking for help with any interesting projects or challenges.
+- 👨‍💻 All of my projects are available here: [i will have one](i will have one).
+- 📝 I regularly write articles on security and coding (currently not available).
+- 💬 Ask me about anything you like, especially JS, Python, PHP, MongoDB, and SQL.
+- 📫 You can reach me on Telegram: @Zer0Day101 (currently unavailable).
+- ⚡ Fun fact: HTML is not a language, but it's essential for building web pages. And yes, you're damn right, HTML is not a language!
 
 <br>
 <br>
