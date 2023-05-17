@@ -21,11 +21,11 @@
 - 🌱 I’m currently learning Security Operations Center (SOC) from **IBM** and **Google**.
 - 👯 I’m looking to collaborate on developing an exciting fight game website.
 - 🤝 I’m looking for help with any interesting projects or challenges.
-- 👨‍💻 All of my projects are available here: [i will have one](i will have one).
+- 👨‍💻 All of my projects are available.
 - 📝 I regularly write articles on security and coding (currently not available).
 - 💬 Ask me about anything you like, especially JS, Python, PHP, MongoDB, and SQL.
-- 📫 You can reach me on Telegram: @Zer0Day101 (currently unavailable).
-- ⚡ Fun fact: HTML is not a language, but it's essential for building web pages. And yes, you're damn right, HTML is not a language!
+- 📫 You can reach me on Telegram: @Zer0Day101 .
+- ⚡ Fun fact: HTML is not a language.
 
 <br>
 <br>
