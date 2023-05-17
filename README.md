@@ -4,7 +4,7 @@
 <h3 align="center">Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise</h3>
 <br>
 <p align="center">
-<img src="https://i.imgur.com/zYgvYmv.gif"/>
+<img src="https://gifdb.com/images/high/pixel-art-joker-riding-hsg29y4i6ofysggi.webp"/>
   </p>
   <br>
 <p align="left">
