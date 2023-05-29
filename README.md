@@ -3,12 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Learning something new today
 ----------------------------
-
+<br>
+<p align="center">
+<img src="https://gifdb.com/images/high/pixel-art-joker-riding-hsg29y4i6ofysggi.webp"/>
+  </p>
+  <br>
 Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [on telegram Zer0Day101](mailto:on telegram Zer0Day101)
-* 🚀  I'm currently working on [API](http://going to come soon)
+* ✉️  You can contact me at telegram Zer0Day101]
+*  🚀  I'm currently working on API
 * 🧠  I'm learning malware analysis
 * 🤝  I'm open to collaborating on Projects , Site ,API and Backend system
 * ⚡  Learn everyday is my motto
