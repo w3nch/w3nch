@@ -43,12 +43,13 @@ Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, G
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
----
+
 # Moto
----
+
 > ## "The strong man stands above all."
 > ### - Vegeta
----
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
