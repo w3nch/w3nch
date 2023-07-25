@@ -49,7 +49,6 @@ Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, G
 > ## "The strong man stands above all."
 > ### - Vegeta
 
-
 ### Badges
 
 <b>My GitHub Stats</b>
