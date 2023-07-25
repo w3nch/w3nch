@@ -9,17 +9,17 @@ Learning something new today
   </p>
   <br>
 Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise
-
+  <br>
 * 🌍  I'm based in India
 * ✉️  You can contact me at telegram Zer0Day101]
 *  🚀  I'm currently working on API
 * 🧠  I'm learning malware analysis
 * 🤝  I'm open to collaborating on Projects , Site ,API and Backend system
 * ⚡  Learn everyday is my motto
-
+  <br>
 ### Skills
 
-
+  <br>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -43,12 +43,14 @@ Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, G
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-
+  <br>
+    <br>
 # Moto
 
 > ## "The strong man stands above all."
 > ### - Vegeta
-
+  <br>
+    <br>
 ### Badges
 
 <b>My GitHub Stats</b>
