@@ -6,12 +6,12 @@ Learning something new today
 
 Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at telegram Zer0Day101]
-*  🚀  I'm currently working on API
-* 🧠  I'm learning malware analysis
-* 🤝  I'm open to collaborating on Projects , Site ,API and Backend system
-* ⚡  Learn everyday is my motto
+* 🌍 Hey there! I'm based in India, exploring the vast digital world.
+* ✉️ Feel free to hit me up on Telegram: Zer0Day101.
+* 🚀 Right now, I'm deep into API development, shaping the way we interact online.
+* 🧠 Also, I'm diving into malware analysis, trying to crack the code on digital threats.
+* 🤝 I'm all about teaming up on cool stuff like Projects, managing Active Directory, setting up Malware Labs, and more.
+* ⚡ My motto? Learning every day to make tomorrow even better! Oh, and I'm aiming to become a SOC (Security Operations Center) analyst down the road.
 
 ### Skills
 
