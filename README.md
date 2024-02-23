@@ -3,11 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Learning something new today
 ----------------------------
-<br>
-<p align="center">
 
-  </p>
-  <br>
 Architect of Digital Fortresses: Harnessing the Powers of Full Stack Wizardry, Guarding the Cloud Realms, and Crafting Seamless Front-End Ecosystems with Security Expertise
 
 * 🌍  I'm based in India
