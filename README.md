@@ -2,7 +2,15 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <p align="left">🔭 I’m currently exploring the intricacies of API development.<br><br>🌱 I’m currently immersing myself in the languages of Rust, C, and diving deeper into React.<br><br>👯 I’m seeking collaborations on building robust backend systems.<br><br>🤝 I could use some guidance with mastering RustScanner.<br><br>💬 Want to dive into the world of Tailwind or TypeScript? Ask me anything!<br><br>📫 Reach out to me at wrench999@proton.me and let's ignite some coding conversations!</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -24,13 +32,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="245" src="https://media.tenor.com/HwLnTqTTGoYAAAAM/joker-heath-ledger.gif"  />
+<p align="left"></p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -64,6 +70,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -75,8 +85,12 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/w3nch/w3nch/output/snake.svg](https://github.com/w3nch/w3nch/blob/main/output/snake.svg)https://github.com/w3nch/w3nch/blob/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/w3nch/w3nch/output/snake.svg" alt="Snake animation" />
 
 ###
