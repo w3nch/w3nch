@@ -13,7 +13,6 @@
   <a href="wrench999@proton.me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="31" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="61" height="31" alt="slack logo"  />
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="61" height="31" alt="tryhackme logo"  />
   </a>
@@ -25,7 +24,9 @@
 
 ###
 
-<img align="right" height="149" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V6aHljYnQ4b21qcTY2OHNhZzc5Mmp4ZjZrM2RraWQxejh4dDRreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T69DHaMuP6QFqS3hKr/giphy.gif"  />
+<br clear="both">
+
+<img align="left" height="245" src="https://media.tenor.com/HwLnTqTTGoYAAAAM/joker-heath-ledger.gif"  />
 
 ###
 
@@ -76,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/w3nch/w3nch/blob/main/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/w3nch/w3nch/output/snake.svg](https://github.com/w3nch/w3nch/blob/main/output/snake.svg)https://github.com/w3nch/w3nch/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
