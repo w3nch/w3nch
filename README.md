@@ -8,18 +8,18 @@
 
 <div align="center">
   <a href="@JustMeWrench" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="61" height="31" alt="telegram logo"  />
   </a>
   <a href="wrench999@proton.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="61" height="31" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="70" height="40" alt="slack logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="61" height="31" alt="slack logo"  />
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="70" height="40" alt="tryhackme logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="61" height="31" alt="tryhackme logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="70" height="40" alt="codesandbox logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="61" height="31" alt="codesandbox logo"  />
   <a href="https://dev.to/w3nch" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="70" height="40" alt="devto logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="61" height="31" alt="devto logo"  />
   </a>
 </div>
 
@@ -76,6 +76,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/w3nch/w3nch/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/w3nch/w3nch/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
