@@ -92,9 +92,3 @@
 <p align="left"></p>
 
 ###
-
-<br clear="both">
-
-<img src="https://github.com/w3nch/w3nch/blob/main/output/snake.svg" alt="Snake animation" />
-
-###
