@@ -14,6 +14,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <div align="center">
   <a href="@JustMeWrench" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="61" height="31" alt="telegram logo"  />
@@ -91,6 +95,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/w3nch/w3nch/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/w3nch/w3nch/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
