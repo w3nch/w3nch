@@ -22,8 +22,8 @@
 ### 📡 Connect With Me  
 
 <p align="center">
-  <a href="https://twitter.com/wr4nch"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
-  <a href="mailto:wrench999@proton.me"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
+  <a href="https://twitter.com/wr4nch"><img src="https://skillicons.dev/icons?i=twitter" width="80"/></a>
+  <a href="mailto:wrench999@proton.me"><img src="https://skillicons.dev/icons?i=gmail" width="80"/></a>
 </p>  
 
 ### 🛡️ My Security Platforms
@@ -96,6 +96,6 @@
   <img src="https://media.tenor.com/VdKp8CtDZtEAAAAC/siem-security.gif" width="400"/>
 </p>  
 
----
+
 
 
