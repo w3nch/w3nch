@@ -8,7 +8,7 @@
 </p>
 
 
-## 🧩 About Me  
+### 🧩 About Me  
 
 - 🛡️ Blue Team focus: **SOC operations, detections, threat hunting**  
 - 🔭 Currently working on: **[CTFs](https://w3nch.github.io/)** & detection playbooks  
@@ -19,15 +19,28 @@
 - 📫 Contact: **wrench999@proton.me**  
 
 
-## 📡 Connect With Me  
+### 📡 Connect With Me  
 
 <p align="center">
   <a href="https://twitter.com/wr4nch"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
   <a href="mailto:wrench999@proton.me"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
 </p>  
 
+### 🛡️ My Security Platforms
 
-## 🛠️ Tools & Coding Stack  
+<p align="center">
+  <a href="https://tryhackme.com/p/w3rnch" target="_blank">
+    <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="80">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/546888" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQHoY37zQbj96suhm8n57dhT2XfHCroddAg&s" alt="Hack The Box" width="80">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cyberdefenders.org/p/wrench" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="CyberDefenders" width="80">
+  </a>
+</p>
+
+
 
 ### 🖥️ Coding / Dev  
 <p align="center">
@@ -63,7 +76,7 @@
 <br>
 
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w3nch&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
@@ -73,7 +86,7 @@
 <br>
 <br>
 
-## 📚 Blog Posts  
+### 📚 Blog Posts  
 
 - [Medium Articles](https://medium.com/@wr7nch)  
 - [My Blog on GitHub](https://w3nch.github.io/)  
