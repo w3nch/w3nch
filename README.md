@@ -7,9 +7,8 @@
   <img src="https://i.pinimg.com/originals/5f/b6/a6/5fb6a69bd0ee5bf60764fdfe2d627a01.gif" />
 </p>
 
-
 ### 🧩 About Me  
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79DAFA&width=435&lines=Analyzing+Commit+Patterns...;Detecting+SOC+Shifts...;Tracking+Adversary+Ops...)  
 - 🛡️ Blue Team focus: **SOC operations, detections, threat hunting**  
 - 🔭 Currently working on: **[CTFs](https://w3nch.github.io/)** & detection playbooks  
 - 🌱 Learning: **Networking, Splunk, Zeek, DFIR, Threat Intel**  
@@ -90,11 +89,6 @@
 
 - [Medium Articles](https://medium.com/@wr7nch)  
 - [My Blog on GitHub](https://w3nch.github.io/)  
-
-
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)  
-
 
 <p align="center">
   <img src="https://media.tenor.com/VdKp8CtDZtEAAAAC/siem-security.gif" width="400"/>
