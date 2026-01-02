@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=79DAFA&center=true&vCenter=true&width=700&lines=🎯+Aspirant+SOC+Analyst;+Threat+Hunter+in+Training" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=79DAFA&center=true&vCenter=true&width=700&lines=🎯+Aspirant+SOC+Analyst;🕵️‍♂️+Threat+Hunter+in+Training" />
   <p align="center">
     <img src="https://i.pinimg.com/originals/5f/b6/a6/5fb6a69bd0ee5bf60764fdfe2d627a01.gif" width="500" />
   </p>
