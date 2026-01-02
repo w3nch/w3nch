@@ -33,39 +33,32 @@
 | **Dev** | <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux" /> |
 | **Red Team** | ![Metasploit](https://img.shields.io/badge/Metasploit-5A189A?style=flat-square&logo=metasploit&logoColor=white) ![Burp](https://img.shields.io/badge/BurpSuite-FF5722?style=flat-square&logo=burp-suite&logoColor=white) ![CobaltStrike](https://img.shields.io/badge/CobaltStrike-8B0000?style=flat-square) |
 
-### 📊 Tactical Metrics
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
-</div>
-
-### 🐍 Contribution Activity
-<div align="center">
-  <img src="https://github.com/w3nch/w3nch/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<br>
 
 ### 🛡️ Training Grounds
 <p align="center">
-
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
-
-    <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="80">
-
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://app.hackthebox.com/profile/546888" target="_blank">
-
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" width="80">
-
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://cyberdefenders.org/p/wrench" target="_blank">
-
-    <img src="https://avatars.githubusercontent.com/u/60213303?s=280&v=4" alt="CyberDefenders" width="80">
-
+    <img src="https://cdn.brandfetch.io/id8Qtt69AT/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740302720425" width="50" style="border-radius: 10px;" alt="TryHackMe" />
   </a>
-
+  &nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/546888" target="_blank">
+    <img src="https://cdn.brandfetch.io/idznX-PWxF/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1744641562479" width="50" style="border-radius: 10px;" alt="HackTheBox" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cyberdefenders.org/p/wrench" target="_blank">
+    <img src="https://cdn.simpleicons.org/cyberdefenders/00AEEF" width="50" style="border-radius: 10px;" alt="CyberDefenders" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://letsdefend.io/" target="_blank">
+    <img src="https://cdn-1.webcatalog.io/catalog/letsdefend/letsdefend-icon-filled-256.png?v=1689174393569" width="50" style="border-radius: 10px;" alt="LetsDefend" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://blueteamlabs.online/" target="_blank">
+    <img src="https://blueteamlabs.online/images/logo.png" width="50" style="border-radius: 10px;" alt="BTLO" />
+  </a>
 </p>
 
+<br>
 
 ### 📡 Establish Connection
 <div align="center">
