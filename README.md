@@ -45,13 +45,27 @@
 
 ### 🛡️ Training Grounds
 <p align="center">
+
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
-    <img src="https://img.shields.io/badge/-TryHackMe-white?style=for-the-badge&logo=tryhackme&logoColor=990000" />
-  </a>
+
+    <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="80">
+
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://app.hackthebox.com/profile/546888" target="_blank">
-    <img src="https://img.shields.io/badge/-HackTheBox-white?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" width="80">
+
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://cyberdefenders.org/p/wrench" target="_blank">
+
+    <img src="https://avatars.githubusercontent.com/u/60213303?s=280&v=4" alt="CyberDefenders" width="80">
+
   </a>
+
 </p>
+
 
 ### 📡 Establish Connection
 <div align="center">
