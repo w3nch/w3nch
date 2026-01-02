@@ -1,90 +1,55 @@
-<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=79DAFA&center=true&vCenter=true&width=700&lines=🎯+Aspirant+SOC+Analyst;Threat+Hunter+in+Training" />
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/5f/b6/a6/5fb6a69bd0ee5bf60764fdfe2d627a01.gif" width="500" />
+  </p>
+</div>
 
-<h1 align="center"> Wanna be SOC Analyst</h1>
-<h3 align="center">Let the suffering begin... but for adversaries 🕵️‍♂️🔍</h3>
+### 🕵️‍♂️ Tactical Status
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9FEFF&center=true&vCenter=true&width=500&lines=Analyzing+Commit+Patterns...;Detecting+SOC+Shifts...;Tracking+Adversary+Ops...;Hunting+Threat+Actors..." />
+</div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5f/b6/a6/5fb6a69bd0ee5bf60764fdfe2d627a01.gif" />
-</p>
+* **🌐 Personal Site:** Explore my work at **[w3nch.github.io](https://w3nch.github.io/)** 🚀
+* **🛡️ Focus:** Blue Team Operations | Detection Engineering | Threat Hunting
+* **🔭 Active Ops:** Sharpening skills via CTFs & crafting detection playbooks.
+* **🌱 Intel Feed:** Currently deep-diving into **DFIR, Splunk, Zeek, and Threat Intel**.
+* **📝 Debriefs:** Technical writing on [Medium](https://medium.com/@wr7nch) ✍️
+* **📫 Signal:** Secure contact at `wrench999@proton.me`
 
-### 🧩 About Me  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79DAFA&width=435&lines=Analyzing+Commit+Patterns...;Detecting+SOC+Shifts...;Tracking+Adversary+Ops...)  
-- 🛡️ Blue Team focus: **SOC operations, detections, threat hunting**  
-- 🔭 Currently working on: **[CTFs](https://w3nch.github.io/)** & detection playbooks  
-- 🌱 Learning: **Networking, Splunk, Zeek, DFIR, Threat Intel**  
-- 👯 Looking to work on: **SOC automation & detection engineering**  
-- 📝 Writing on: [Medium](https://medium.com/@wr7nch)  
-- 💬 Ask me about: **Packet analysis, Wireshark, Nmap, Zeek scripting**  
-- 📫 Contact: **wrench999@proton.me**  
+### 🛠️ The Arsenal
 
+| **Domain** | **Tools & Technologies** |
+| :--- | :--- |
+| **SOC Ops** | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=flat-square&logo=wireshark&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logo=wazuh&logoColor=white) |
+| **Analysis** | ![Zeek](https://img.shields.io/badge/Zeek-FABD2F?style=flat-square&logoColor=black) ![Sigma](https://img.shields.io/badge/Sigma-228B22?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-FF8C00?style=flat-square&logo=virustotal&logoColor=white) |
+| **Dev** | <img src="https://skillicons.dev/icons?i=python,go,bash,docker,linux" /> |
+| **Red Team** | ![Metasploit](https://img.shields.io/badge/Metasploit-5A189A?style=flat-square&logo=metasploit&logoColor=white) ![Burp](https://img.shields.io/badge/BurpSuite-FF5722?style=flat-square&logo=burp-suite&logoColor=white) ![CobaltStrike](https://img.shields.io/badge/CobaltStrike-8B0000?style=flat-square) |
 
-### 📡 Connect With Me  
+### 📊 Tactical Metrics
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" />
+</div>
 
-<p align="center">
-  <a href="https://twitter.com/wr4nch"><img src="https://skillicons.dev/icons?i=twitter" width="80"/></a>
-  <a href="mailto:wrench999@proton.me"><img src="https://skillicons.dev/icons?i=gmail" width="80"/></a>
-</p>  
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://github.com/w3nch/w3nch/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-### 🛡️ My Security Platforms
-
+### 🛡️ Training Grounds
 <p align="center">
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
-    <img src="https://yt3.googleusercontent.com/2M3WiTvqDBIjd2AneqZ8CapyD9FL6NU9s2TIqiDliUujGPBhaTcHxFVRJQl8DLBjKL3T6NOJsg=s900-c-k-c0x00ffffff-no-rj" alt="TryHackMe" width="80">
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-TryHackMe-white?style=for-the-badge&logo=tryhackme&logoColor=990000" />
+  </a>
   <a href="https://app.hackthebox.com/profile/546888" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhs6oJRGZG2suzcDhW-iLWdYaMwJw3rllNyQ&s" alt="Hack The Box" width="80">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://cyberdefenders.org/p/wrench" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/60213303?s=280&v=4" alt="CyberDefenders" width="80">
+    <img src="https://img.shields.io/badge/-HackTheBox-white?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   </a>
 </p>
 
-
-
-### 🖥️ Coding / Dev  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,ts,svelte,linux,bash,docker"/>
-</p>  
-
-<img src="image.png">
-
-### 🛡️ Blue Team / SOC  
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeek-FABD2F?style=for-the-badge&logo=security&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-4B0082?style=for-the-badge&logo=elasticstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sigma_Rules-228B22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YARA_Rules-FF8C00?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regex-333333?style=for-the-badge&logo=regex&logoColor=white"/>
-</p>  
-
-### 🏴 Red Team / Adversary Simulation  
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-5A189A?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cobalt_Strike-8B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Empire-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Impacket-A9A9A9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responder-006400?style=for-the-badge"/>
-</p>  
-<br>
-<br>
-
-
-
-### 📚 Blog Posts  
-
-- [Medium Articles](https://medium.com/@wr7nch)  
-- [My Blog on GitHub](https://w3nch.github.io/)  
-
-<p align="center">
-  <img src="https://media.tenor.com/VdKp8CtDZtEAAAAC/siem-security.gif" width="400"/>
-</p>  
-
-
-
-
+### 📡 Establish Connection
+<div align="center">
+  <a href="https://twitter.com/wr4nch"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@wr7nch"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:wrench999@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
