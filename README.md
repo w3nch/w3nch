@@ -12,7 +12,7 @@
 
 <br>
 
-### 🕵️‍♂️ Tactical Status
+### Tactical Status
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9FEFF&center=true&vCenter=true&width=500&lines=Analyzing+Commit+Patterns...;Detecting+SOC+Shifts...;Tracking+Adversary+Ops...;Hunting+Threat+Actors..." />
 </div>
@@ -23,7 +23,7 @@
 * **📫 Signal:** Secure contact at `wrench999@proton.me`
 <br>
 
-### 🛡️ Training Grounds
+### Training Grounds
 <p align="center">
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
     <img src="https://cdn.brandfetch.io/id8Qtt69AT/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740302720425" width="50" style="border-radius: 10px;" alt="TryHackMe" />
@@ -37,18 +37,18 @@
     <img src="https://cdn.simpleicons.org/cyberdefenders/00AEEF" width="50" style="border-radius: 10px;" alt="CyberDefenders" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://letsdefend.io/" target="_blank">
+  <a href="https://app.letsdefend.io/user/w3nch" target="_blank">
     <img src="https://cdn-1.webcatalog.io/catalog/letsdefend/letsdefend-icon-filled-256.png?v=1689174393569" width="50" style="border-radius: 10px;" alt="LetsDefend" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://blueteamlabs.online/" target="_blank">
+  <a href="https://blueteamlabs.online/home/user/dd10ac74f47296c582a6a2" target="_blank">
     <img src="https://blueteamlabs.online/images/logo.png" width="50" style="border-radius: 10px;" alt="BTLO" />
   </a>
 </p>
 
 <br>
 
-### 📡 Establish Connection
+### Establish Connection
 <div align="center">
   <a href="https://twitter.com/wr4nch"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://medium.com/@wr7nch"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
