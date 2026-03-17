@@ -23,6 +23,11 @@
 * **📫 Signal:** Secure contact at `wrench999@proton.me`
 <br>
 
+### Personal Projects
+- [Owsap LLM Top 10 Detection](https://github.com/w3nch/owasp-llm-top-10-SOC-Home-lab)
+- [GoExec](https://github.com/w3nch/GoExec)
+- [PyWall](https://github.com/w3nch/PyWall)
+
 ### Training Grounds
 <p align="center">
   <a href="https://tryhackme.com/p/w3rnch" target="_blank">
