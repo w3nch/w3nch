@@ -30,10 +30,6 @@
 
 ### Training Grounds
 <p align="center">
-  <a href="https://tryhackme.com/p/w3rnch" target="_blank">
-    <img src="https://cdn.brandfetch.io/id8Qtt69AT/w/180/h/180/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1740302720425" width="50" style="border-radius: 10px;" alt="TryHackMe" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://app.hackthebox.com/profile/546888" target="_blank">
     <img src="https://cdn.brandfetch.io/idznX-PWxF/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1744641562479" width="50" style="border-radius: 10px;" alt="HackTheBox" />
   </a>
